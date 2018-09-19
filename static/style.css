@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+}
+body{
+	background-color: #528969;
+	max-width: 60em;
+	margin: 0 auto;
+}
+ul {
+	background-color: #83dba8;
+}
+.row li{
+	padding: 1em;
+	text-decoration: none;
+	list-style-type: none;
+}
+.row h1 {
+	padding: .5em;
+	background-color: #58ad75;
+}
+header, footer{
+	text-align: center;
+	padding: 1em;
+	background-color: #376048;
+}
